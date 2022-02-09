@@ -24,7 +24,7 @@ class Point
   return _z;
   }
   };
-//  Реализуйте класс, задающий сферу. Прототип класса:
+
   class Sphere
   {
   public:
