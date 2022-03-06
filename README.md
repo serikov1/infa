@@ -1,4 +1,4 @@
-## Домашние задания по информатике 1 курс 2021-22гг
+## Computer science Homework DASR 2021-22гг
 
 - [Занятие №1](https://github.com/serikov1/infa/tree/main/дз-1)
 - [Занятие №3](https://github.com/serikov1/infa/tree/main/дз-3%20неделя)
