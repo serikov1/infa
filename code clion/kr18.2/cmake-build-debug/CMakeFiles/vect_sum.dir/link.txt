@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\vect_sum.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\vect_sum.dir/objects.a @CMakeFiles\vect_sum.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\vect_sum.dir/objects.a -Wl,--no-whole-archive -o vect_sum.exe -Wl,--out-implib,libvect_sum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\vect_sum.dir\linklibs.rsp

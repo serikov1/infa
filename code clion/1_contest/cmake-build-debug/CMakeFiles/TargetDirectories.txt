@@ -1,0 +1,11 @@
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/thriangle.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/nok.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/1_contest.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/fact_number.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/romb.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/simple_number.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/kol_vo_cifr.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/binary.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/empty_square.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/1_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

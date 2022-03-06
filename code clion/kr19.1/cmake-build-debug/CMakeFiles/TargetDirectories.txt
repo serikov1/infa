@@ -1,0 +1,4 @@
+D:/code clion/kr19.1/cmake-build-debug/CMakeFiles/kr19_1.dir
+D:/code clion/kr19.1/cmake-build-debug/CMakeFiles/matrix.dir
+D:/code clion/kr19.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/kr19.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

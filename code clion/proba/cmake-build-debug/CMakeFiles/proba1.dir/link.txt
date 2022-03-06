@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\proba1.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\proba1.dir/objects.a @CMakeFiles\proba1.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\proba1.dir/objects.a -Wl,--no-whole-archive -o proba1.exe -Wl,--out-implib,libproba1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\proba1.dir\linklibs.rsp

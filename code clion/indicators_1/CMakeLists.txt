@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.20)
+project(indicators_1)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(indicators_1 main.cpp)
+add_executable(num1 num1.cpp)
+add_executable(num2 num2.cpp)
+add_executable(num3 num3.cpp)
+add_executable(num4 num4.cpp)
+add_executable(num5 num5.cpp)
+add_executable(num6 num6.cpp)
+add_executable(num7 num7.cpp)
+add_executable(num8 num8.cpp)
+add_executable(num9 num9.cpp)

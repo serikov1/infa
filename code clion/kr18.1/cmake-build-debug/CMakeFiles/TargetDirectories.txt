@@ -1,0 +1,3 @@
+D:/code clion/kr18.1/cmake-build-debug/CMakeFiles/kr18_1.dir
+D:/code clion/kr18.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/kr18.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

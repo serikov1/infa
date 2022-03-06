@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\trisolaris.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\trisolaris.dir/objects.a @CMakeFiles\trisolaris.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\trisolaris.dir/objects.a -Wl,--no-whole-archive -o trisolaris.exe -Wl,--out-implib,libtrisolaris.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\trisolaris.dir\linklibs.rsp

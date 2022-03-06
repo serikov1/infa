@@ -1,0 +1,4 @@
+D:/code clion/homework/cmake-build-debug/CMakeFiles/hw1.dir
+D:/code clion/homework/cmake-build-debug/CMakeFiles/homework.dir
+D:/code clion/homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

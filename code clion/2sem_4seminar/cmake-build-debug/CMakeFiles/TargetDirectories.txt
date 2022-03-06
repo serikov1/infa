@@ -1,0 +1,7 @@
+D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/2sem_4seminar.dir
+D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/Predator.dir
+D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/Convoy.dir
+D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/MoneyBox.dir
+D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/game_3.0_.dir
+D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

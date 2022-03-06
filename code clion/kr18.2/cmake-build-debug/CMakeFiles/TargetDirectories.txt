@@ -1,0 +1,8 @@
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/water.dir
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/kr18_2.dir
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/squirrel.dir
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/multiplication_matrix.dir
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/weight.dir
+D:/code clion/kr18.2/cmake-build-debug/CMakeFiles/vect_sum.dir

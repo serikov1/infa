@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\indicators.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\indicators.dir/objects.a @CMakeFiles\indicators.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\indicators.dir/objects.a -Wl,--no-whole-archive -o indicators.exe -Wl,--out-implib,libindicators.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\indicators.dir\linklibs.rsp

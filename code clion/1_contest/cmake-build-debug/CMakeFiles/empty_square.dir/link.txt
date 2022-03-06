@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\empty_square.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\empty_square.dir/objects.a @CMakeFiles\empty_square.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\empty_square.dir/objects.a -Wl,--no-whole-archive -o empty_square.exe -Wl,--out-implib,libempty_square.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\empty_square.dir\linklibs.rsp

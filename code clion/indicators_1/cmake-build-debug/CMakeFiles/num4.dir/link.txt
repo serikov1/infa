@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\num4.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\num4.dir/objects.a @CMakeFiles\num4.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\num4.dir/objects.a -Wl,--no-whole-archive -o num4.exe -Wl,--out-implib,libnum4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\num4.dir\linklibs.rsp

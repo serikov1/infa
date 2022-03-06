@@ -1,0 +1,6 @@
+D:/code clion/kr2_2019/cmake-build-debug/CMakeFiles/num3.cpp.dir
+D:/code clion/kr2_2019/cmake-build-debug/CMakeFiles/kr2_2019.dir
+D:/code clion/kr2_2019/cmake-build-debug/CMakeFiles/num2.cpp.dir
+D:/code clion/kr2_2019/cmake-build-debug/CMakeFiles/num4.cpp.dir
+D:/code clion/kr2_2019/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/kr2_2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+D:/code clion/kr_20/cmake-build-debug/CMakeFiles/max_number.dir
+D:/code clion/kr_20/cmake-build-debug/CMakeFiles/kr_20.dir
+D:/code clion/kr_20/cmake-build-debug/CMakeFiles/medium.dir
+D:/code clion/kr_20/cmake-build-debug/CMakeFiles/space_.dir
+D:/code clion/kr_20/cmake-build-debug/CMakeFiles/matrix.dir
+D:/code clion/kr_20/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/kr_20/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\kr2_easy.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\kr2_easy.dir/objects.a @CMakeFiles\kr2_easy.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\kr2_easy.dir/objects.a -Wl,--no-whole-archive -o kr2_easy.exe -Wl,--out-implib,libkr2_easy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kr2_easy.dir\linklibs.rsp

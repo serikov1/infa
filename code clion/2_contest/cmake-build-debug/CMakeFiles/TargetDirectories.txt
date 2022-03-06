@@ -1,0 +1,6 @@
+D:/code clion/2_contest/cmake-build-debug/CMakeFiles/2_contest.dir
+D:/code clion/2_contest/cmake-build-debug/CMakeFiles/dex_translate.dir
+D:/code clion/2_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code clion/2_contest/cmake-build-debug/CMakeFiles/uppercase_letters.dir
+D:/code clion/2_contest/cmake-build-debug/CMakeFiles/nonacci.dir
+D:/code clion/2_contest/cmake-build-debug/CMakeFiles/edit_cache.dir

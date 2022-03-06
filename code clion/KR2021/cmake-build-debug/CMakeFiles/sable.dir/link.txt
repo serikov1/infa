@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\sable.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\sable.dir/objects.a @CMakeFiles\sable.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sable.dir/objects.a -Wl,--no-whole-archive -o sable.exe -Wl,--out-implib,libsable.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sable.dir\linklibs.rsp

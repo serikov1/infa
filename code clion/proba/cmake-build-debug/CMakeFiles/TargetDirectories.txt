@@ -1,0 +1,4 @@
+D:/code clion/proba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code clion/proba/cmake-build-debug/CMakeFiles/proba.dir
+D:/code clion/proba/cmake-build-debug/CMakeFiles/proba1.dir
+D:/code clion/proba/cmake-build-debug/CMakeFiles/edit_cache.dir

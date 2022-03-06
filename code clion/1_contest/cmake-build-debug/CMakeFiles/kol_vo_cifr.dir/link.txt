@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\kol_vo_cifr.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\kol_vo_cifr.dir/objects.a @CMakeFiles\kol_vo_cifr.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\kol_vo_cifr.dir/objects.a -Wl,--no-whole-archive -o kol_vo_cifr.exe -Wl,--out-implib,libkol_vo_cifr.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kol_vo_cifr.dir\linklibs.rsp

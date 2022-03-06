@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\medium.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\medium.dir/objects.a @CMakeFiles\medium.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\medium.dir/objects.a -Wl,--no-whole-archive -o medium.exe -Wl,--out-implib,libmedium.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\medium.dir\linklibs.rsp

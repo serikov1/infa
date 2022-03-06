@@ -1,0 +1,3 @@
+D:/code clion/SAPER/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/SAPER/cmake-build-debug/CMakeFiles/main.dir
+D:/code clion/SAPER/cmake-build-debug/CMakeFiles/rebuild_cache.dir

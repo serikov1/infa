@@ -1,0 +1,10 @@
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/trisolaris.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/KR2021.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/lamps1d.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/parrot.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/imposter.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/sable.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/cyberdog.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/chaos.dir
+D:/code clion/KR2021/cmake-build-debug/CMakeFiles/edit_cache.dir

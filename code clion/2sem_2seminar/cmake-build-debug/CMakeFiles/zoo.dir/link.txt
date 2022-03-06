@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\zoo.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\zoo.dir/objects.a @CMakeFiles\zoo.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\zoo.dir/objects.a -Wl,--no-whole-archive -o zoo.exe -Wl,--out-implib,libzoo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zoo.dir\linklibs.rsp

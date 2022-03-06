@@ -1,0 +1,9 @@
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/num5.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/kr_2021.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/num1.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/num2.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/num3.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/num4.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/num6.dir
+D:/code clion/kr_2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
