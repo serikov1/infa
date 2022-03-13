@@ -1,0 +1,4 @@
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_5seminar/cmake-build-debug/CMakeFiles/Algorithms.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_5seminar/cmake-build-debug/CMakeFiles/2sem_5seminar.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_5seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_5seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

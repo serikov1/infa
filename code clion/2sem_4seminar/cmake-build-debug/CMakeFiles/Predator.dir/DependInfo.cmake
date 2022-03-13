@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/code clion/2sem_4seminar/Predator.cpp" "D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/Predator.dir/Predator.cpp.obj"
+  "D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_4seminar/Predator.cpp" "D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/Predator.dir/Predator.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -56,10 +56,10 @@ RM = "C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\code clion\2sem_4seminar"
+CMAKE_SOURCE_DIR = "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\code clion\2sem_4seminar\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" "D:\code clion\2sem_4seminar\cmake-build-debug\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

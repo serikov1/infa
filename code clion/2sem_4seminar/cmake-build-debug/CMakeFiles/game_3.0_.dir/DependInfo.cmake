@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/code clion/2sem_4seminar/game_3.0_.cpp" "D:/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/game_3.0_.dir/game_3.0_.cpp.obj"
+  "D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_4seminar/game_3.0_.cpp" "D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_4seminar/cmake-build-debug/CMakeFiles/game_3.0_.dir/game_3.0_.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

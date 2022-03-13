@@ -53,10 +53,10 @@ RM = "C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\code clion\2sem_4seminar"
+CMAKE_SOURCE_DIR = "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\code clion\2sem_4seminar\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -88,14 +88,14 @@ clean: CMakeFiles/game_3.0_.dir/clean
 CMakeFiles/2sem_4seminar.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2sem_4seminar.dir\build.make CMakeFiles/2sem_4seminar.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2sem_4seminar.dir\build.make CMakeFiles/2sem_4seminar.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target 2sem_4seminar"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target 2sem_4seminar"
 .PHONY : CMakeFiles/2sem_4seminar.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2sem_4seminar.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2sem_4seminar.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/2sem_4seminar.dir/rule
 
 # Convenience name for target.
@@ -114,14 +114,14 @@ CMakeFiles/2sem_4seminar.dir/clean:
 CMakeFiles/Predator.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Predator.dir\build.make CMakeFiles/Predator.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Predator.dir\build.make CMakeFiles/Predator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target Predator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target Predator"
 .PHONY : CMakeFiles/Predator.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Predator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Predator.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Predator.dir/rule
 
 # Convenience name for target.
@@ -140,14 +140,14 @@ CMakeFiles/Predator.dir/clean:
 CMakeFiles/Convoy.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Convoy.dir\build.make CMakeFiles/Convoy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Convoy.dir\build.make CMakeFiles/Convoy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target Convoy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target Convoy"
 .PHONY : CMakeFiles/Convoy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Convoy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Convoy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Convoy.dir/rule
 
 # Convenience name for target.
@@ -166,14 +166,14 @@ CMakeFiles/Convoy.dir/clean:
 CMakeFiles/MoneyBox.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MoneyBox.dir\build.make CMakeFiles/MoneyBox.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MoneyBox.dir\build.make CMakeFiles/MoneyBox.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target MoneyBox"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target MoneyBox"
 .PHONY : CMakeFiles/MoneyBox.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/MoneyBox.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/MoneyBox.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/MoneyBox.dir/rule
 
 # Convenience name for target.
@@ -192,14 +192,14 @@ CMakeFiles/MoneyBox.dir/clean:
 CMakeFiles/game_3.0_.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\game_3.0_.dir\build.make CMakeFiles/game_3.0_.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\game_3.0_.dir\build.make CMakeFiles/game_3.0_.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target game_3.0_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target game_3.0_"
 .PHONY : CMakeFiles/game_3.0_.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/game_3.0_.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/game_3.0_.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_4seminar\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/game_3.0_.dir/rule
 
 # Convenience name for target.
