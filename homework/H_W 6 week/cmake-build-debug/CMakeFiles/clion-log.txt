@@ -1,0 +1,4 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "D:\VASILY WORKS\PHYSTECH\Computer science\infa\homework\H_W 6 week"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/VASILY WORKS/PHYSTECH/Computer science/infa/homework/H_W 6 week/cmake-build-debug

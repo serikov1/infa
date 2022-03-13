@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\accumulate.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\accumulate.dir/objects.a @CMakeFiles\accumulate.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\accumulate.dir/objects.a -Wl,--no-whole-archive -o accumulate.exe -Wl,--out-implib,libaccumulate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\accumulate.dir\linklibs.rsp

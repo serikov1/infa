@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/homework/H_W 6 week/accumulate.cpp
+iostream
+-
+numeric
+-
+vector
+-
+thread
+-
+random
+-
+chrono
+-
+algorithm
+-
+

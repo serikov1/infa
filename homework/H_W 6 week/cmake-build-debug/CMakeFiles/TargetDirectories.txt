@@ -1,0 +1,5 @@
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/homework/H_W 6 week/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/homework/H_W 6 week/cmake-build-debug/CMakeFiles/H_W_6_week.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/homework/H_W 6 week/cmake-build-debug/CMakeFiles/petrol_station.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/homework/H_W 6 week/cmake-build-debug/CMakeFiles/accumulate.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/homework/H_W 6 week/cmake-build-debug/CMakeFiles/edit_cache.dir
