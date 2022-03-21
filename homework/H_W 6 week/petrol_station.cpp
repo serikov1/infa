@@ -21,9 +21,9 @@ private:
     std::string message;
 };
 
-class PetrolLowFlowException : public std::exception {
+class PetrolLowException : public std::exception {
 public:
-    PetrolLowFlowException(unsigned n){
+    PetrolLowException(unsigned n){
         std::stringstream ss;
         ss << n << " not so much";
         message = ss.str();
@@ -55,7 +55,7 @@ public:
     // Если столько нет в резервуаре - не забирать из резервуара ничего, выбросить std::exception
     void tank(unsigned int n) {
         if (n > size) {
-            throw PetrolLowFlowException(n);
+            throw PetrolLowException(n);
         }
         size -= n;
     }
@@ -97,6 +97,7 @@ int main() {
             s.tank(100);                            // из-за чего на третьей попытке ждём exception.
             cout << s.get_limit() << endl;
         }
+
     } catch (std::exception& ex){
         std::cout<< ex.what() << std::endl;
     }

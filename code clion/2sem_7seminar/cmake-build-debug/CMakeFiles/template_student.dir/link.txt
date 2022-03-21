@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\template_student.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\template_student.dir/objects.a @CMakeFiles\template_student.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\template_student.dir/objects.a -Wl,--no-whole-archive -o template_student.exe -Wl,--out-implib,libtemplate_student.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\template_student.dir\linklibs.rsp

@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="namespace">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/namespace.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/namespace.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 namespace"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 namespace"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="namespace/fast">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/namespace.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/namespace.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,15 +63,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 namespace/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 namespace/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="sem2_sem_3">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/sem2_sem_3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/sem2_sem_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -84,15 +84,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem2_sem_3"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem2_sem_3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="sem2_sem_3/fast">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/sem2_sem_3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/sem2_sem_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -105,15 +105,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem2_sem_3/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem2_sem_3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Figure">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/Figure.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Figure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -126,15 +126,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Figure"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Figure"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Figure/fast">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/Figure.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Figure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -147,15 +147,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Figure/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Figure/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="notVector">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/notVector.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/notVector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -168,15 +168,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 notVector"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 notVector"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="notVector/fast">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/notVector.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/notVector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -189,15 +189,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 notVector/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 notVector/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SmartCat">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/SmartCat.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/SmartCat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -210,15 +210,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 SmartCat"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 SmartCat"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SmartCat/fast">
-				<Option output="D:/code clion/sem2_sem_3/cmake-build-debug/SmartCat.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/SmartCat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -231,39 +231,39 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 SmartCat/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 SmartCat/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/code clion/sem2_sem_3/cmake-build-debug"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/code clion/sem2_sem_3/Figure.cpp">
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/Figure.cpp">
 			<Option target="Figure"/>
 		</Unit>
-		<Unit filename="D:/code clion/sem2_sem_3/SmartCat.cpp">
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/SmartCat.cpp">
 			<Option target="SmartCat"/>
 		</Unit>
-		<Unit filename="D:/code clion/sem2_sem_3/main.cpp">
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/main.cpp">
 			<Option target="sem2_sem_3"/>
 		</Unit>
-		<Unit filename="D:/code clion/sem2_sem_3/namespace.cpp">
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/namespace.cpp">
 			<Option target="namespace"/>
 		</Unit>
-		<Unit filename="D:/code clion/sem2_sem_3/notVector.cpp">
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/notVector.cpp">
 			<Option target="notVector"/>
 		</Unit>
-		<Unit filename="D:/code clion/sem2_sem_3/CMakeLists.txt">
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

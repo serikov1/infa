@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/code clion/sem2_sem_3/namespace.cpp" "D:/code clion/sem2_sem_3/cmake-build-debug/CMakeFiles/namespace.dir/namespace.cpp.obj"
+  "D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/namespace.cpp" "D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_sem_3/cmake-build-debug/CMakeFiles/namespace.dir/namespace.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

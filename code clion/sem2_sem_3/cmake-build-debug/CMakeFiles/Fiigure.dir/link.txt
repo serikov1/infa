@@ -1,3 +1,0 @@
-"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Fiigure.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Fiigure.dir/objects.a @CMakeFiles\Fiigure.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Fiigure.dir/objects.a -Wl,--no-whole-archive -o Fiigure.exe -Wl,--out-implib,libFiigure.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Fiigure.dir\linklibs.rsp

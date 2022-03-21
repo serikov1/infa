@@ -1,0 +1,3 @@
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/TETRIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/TETRIS/cmake-build-debug/CMakeFiles/main.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/TETRIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
