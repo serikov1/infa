@@ -65,6 +65,7 @@ CMAKE_BINARY_DIR = "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2s
 all: CMakeFiles/2sem_7seminar.dir/all
 all: CMakeFiles/min_from_rand.dir/all
 all: CMakeFiles/template_student.dir/all
+all: CMakeFiles/Timer.dir/all
 all: CMakeFiles/Value.dir/all
 all: CMakeFiles/class_template.dir/all
 all: CMakeFiles/Accumulate.dir/all
@@ -78,6 +79,7 @@ preinstall:
 clean: CMakeFiles/2sem_7seminar.dir/clean
 clean: CMakeFiles/min_from_rand.dir/clean
 clean: CMakeFiles/template_student.dir/clean
+clean: CMakeFiles/Timer.dir/clean
 clean: CMakeFiles/Value.dir/clean
 clean: CMakeFiles/class_template.dir/clean
 clean: CMakeFiles/Accumulate.dir/clean
@@ -116,7 +118,7 @@ CMakeFiles/2sem_7seminar.dir/clean:
 CMakeFiles/min_from_rand.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\min_from_rand.dir\build.make CMakeFiles/min_from_rand.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\min_from_rand.dir\build.make CMakeFiles/min_from_rand.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target min_from_rand"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=11,12 "Built target min_from_rand"
 .PHONY : CMakeFiles/min_from_rand.dir/all
 
 # Build rule for subdir invocation for target.
@@ -142,7 +144,7 @@ CMakeFiles/min_from_rand.dir/clean:
 CMakeFiles/template_student.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\template_student.dir\build.make CMakeFiles/template_student.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\template_student.dir\build.make CMakeFiles/template_student.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=11,12 "Built target template_student"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=13,14 "Built target template_student"
 .PHONY : CMakeFiles/template_student.dir/all
 
 # Build rule for subdir invocation for target.
@@ -162,13 +164,39 @@ CMakeFiles/template_student.dir/clean:
 .PHONY : CMakeFiles/template_student.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/Timer.dir
+
+# All Build rule for target.
+CMakeFiles/Timer.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Timer.dir\build.make CMakeFiles/Timer.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Timer.dir\build.make CMakeFiles/Timer.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target Timer"
+.PHONY : CMakeFiles/Timer.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Timer.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Timer.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/Timer.dir/rule
+
+# Convenience name for target.
+Timer: CMakeFiles/Timer.dir/rule
+.PHONY : Timer
+
+# clean rule for target.
+CMakeFiles/Timer.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Timer.dir\build.make CMakeFiles/Timer.dir/clean
+.PHONY : CMakeFiles/Timer.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/Value.dir
 
 # All Build rule for target.
 CMakeFiles/Value.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Value.dir\build.make CMakeFiles/Value.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Value.dir\build.make CMakeFiles/Value.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target Value"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target Value"
 .PHONY : CMakeFiles/Value.dir/all
 
 # Build rule for subdir invocation for target.
@@ -194,7 +222,7 @@ CMakeFiles/Value.dir/clean:
 CMakeFiles/class_template.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\class_template.dir\build.make CMakeFiles/class_template.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\class_template.dir\build.make CMakeFiles/class_template.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target class_template"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_7seminar\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target class_template"
 .PHONY : CMakeFiles/class_template.dir/all
 
 # Build rule for subdir invocation for target.

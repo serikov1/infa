@@ -155,6 +155,19 @@ template_student/fast:
 .PHONY : template_student/fast
 
 #=============================================================================
+# Target rules for targets named Timer
+
+# Build rule for target.
+Timer: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Timer
+.PHONY : Timer
+
+# fast build rule for target.
+Timer/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Timer.dir\build.make CMakeFiles/Timer.dir/build
+.PHONY : Timer/fast
+
+#=============================================================================
 # Target rules for targets named Value
 
 # Build rule for target.
@@ -216,6 +229,30 @@ Accumulate.s: Accumulate.cpp.s
 Accumulate.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Accumulate.dir\build.make CMakeFiles/Accumulate.dir/Accumulate.cpp.s
 .PHONY : Accumulate.cpp.s
+
+Timer.obj: Timer.cpp.obj
+.PHONY : Timer.obj
+
+# target to build an object file
+Timer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Timer.dir\build.make CMakeFiles/Timer.dir/Timer.cpp.obj
+.PHONY : Timer.cpp.obj
+
+Timer.i: Timer.cpp.i
+.PHONY : Timer.i
+
+# target to preprocess a source file
+Timer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Timer.dir\build.make CMakeFiles/Timer.dir/Timer.cpp.i
+.PHONY : Timer.cpp.i
+
+Timer.s: Timer.cpp.s
+.PHONY : Timer.s
+
+# target to generate assembly for a file
+Timer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Timer.dir\build.make CMakeFiles/Timer.dir/Timer.cpp.s
+.PHONY : Timer.cpp.s
 
 Value.obj: Value.cpp.obj
 .PHONY : Value.obj
@@ -347,6 +384,7 @@ help:
 	@echo ... rebuild_cache
 	@echo ... 2sem_7seminar
 	@echo ... Accumulate
+	@echo ... Timer
 	@echo ... Value
 	@echo ... class_template
 	@echo ... min_from_rand
@@ -354,6 +392,9 @@ help:
 	@echo ... Accumulate.obj
 	@echo ... Accumulate.i
 	@echo ... Accumulate.s
+	@echo ... Timer.obj
+	@echo ... Timer.i
+	@echo ... Timer.s
 	@echo ... Value.obj
 	@echo ... Value.i
 	@echo ... Value.s

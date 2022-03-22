@@ -1,6 +1,7 @@
 D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_7seminar/cmake-build-debug/CMakeFiles/2sem_7seminar.dir
 D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_7seminar/cmake-build-debug/CMakeFiles/min_from_rand.dir
 D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_7seminar/cmake-build-debug/CMakeFiles/template_student.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_7seminar/cmake-build-debug/CMakeFiles/Timer.dir
 D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_7seminar/cmake-build-debug/CMakeFiles/Value.dir
 D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_7seminar/cmake-build-debug/CMakeFiles/class_template.dir
 D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_7seminar/cmake-build-debug/CMakeFiles/Accumulate.dir

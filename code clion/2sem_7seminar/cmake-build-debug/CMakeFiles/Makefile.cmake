@@ -54,6 +54,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/2sem_7seminar.dir/DependInfo.cmake"
   "CMakeFiles/min_from_rand.dir/DependInfo.cmake"
   "CMakeFiles/template_student.dir/DependInfo.cmake"
+  "CMakeFiles/Timer.dir/DependInfo.cmake"
   "CMakeFiles/Value.dir/DependInfo.cmake"
   "CMakeFiles/class_template.dir/DependInfo.cmake"
   "CMakeFiles/Accumulate.dir/DependInfo.cmake"
