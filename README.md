@@ -6,4 +6,4 @@
 - [lesson №5](https://github.com/serikov1/infa/tree/main/homework/H_W%205%20week)
 - [lesson №6](https://github.com/serikov1/infa/tree/main/homework/H_W%206%20week)
 - :point_right: [lesson №7](https://github.com/serikov1/infa/tree/main/homework/H_W%207%20week) :trollface:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3328F7&background=3D60FF00&vCenter=true&width=200&height=15&lines=CHECK++THIS;Boss%2C+I'm+tired)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=251CBA&height=30&lines=CHECK+THIS;BOSS%2C+I'M+TIRED)](https://git.io/typing-svg)
