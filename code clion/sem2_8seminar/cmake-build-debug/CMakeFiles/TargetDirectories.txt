@@ -1,0 +1,6 @@
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_8seminar/cmake-build-debug/CMakeFiles/sem2_8seminar.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_8seminar/cmake-build-debug/CMakeFiles/Analyzer.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_8seminar/cmake-build-debug/CMakeFiles/Tournament.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_8seminar/cmake-build-debug/CMakeFiles/Name.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_8seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_8seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

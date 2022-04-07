@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Tournament.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Tournament.dir/objects.a @CMakeFiles\Tournament.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Tournament.dir/objects.a -Wl,--no-whole-archive -o Tournament.exe -Wl,--out-implib,libTournament.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tournament.dir\linklibs.rsp

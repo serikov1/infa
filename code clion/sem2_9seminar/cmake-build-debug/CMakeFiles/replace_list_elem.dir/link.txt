@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\replace_list_elem.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\replace_list_elem.dir/objects.a @CMakeFiles\replace_list_elem.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\replace_list_elem.dir/objects.a -Wl,--no-whole-archive -o replace_list_elem.exe -Wl,--out-implib,libreplace_list_elem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\replace_list_elem.dir\linklibs.rsp

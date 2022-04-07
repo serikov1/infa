@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cin_for_vector.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cin_for_vector.dir/objects.a @CMakeFiles\cin_for_vector.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cin_for_vector.dir/objects.a -Wl,--no-whole-archive -o cin_for_vector.exe -Wl,--out-implib,libcin_for_vector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cin_for_vector.dir\linklibs.rsp

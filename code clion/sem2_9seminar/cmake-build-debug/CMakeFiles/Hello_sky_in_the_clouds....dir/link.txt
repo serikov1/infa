@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Hello_sky_in_the_clouds....dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Hello_sky_in_the_clouds....dir/objects.a @CMakeFiles\Hello_sky_in_the_clouds....dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Hello_sky_in_the_clouds....dir/objects.a -Wl,--no-whole-archive -o Hello_sky_in_the_clouds....exe -Wl,--out-implib,libHello_sky_in_the_clouds....dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Hello_sky_in_the_clouds....dir\linklibs.rsp

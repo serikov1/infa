@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Users_activities.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Users_activities.dir/objects.a @CMakeFiles\Users_activities.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Users_activities.dir/objects.a -Wl,--no-whole-archive -o Users_activities.exe -Wl,--out-implib,libUsers_activities.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Users_activities.dir\linklibs.rsp

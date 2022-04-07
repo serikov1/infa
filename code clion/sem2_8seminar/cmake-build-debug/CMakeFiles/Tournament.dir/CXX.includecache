@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/sem2_8seminar/Tournament.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+set
+-
+

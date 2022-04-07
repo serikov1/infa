@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\equal_sequnce.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\equal_sequnce.dir/objects.a @CMakeFiles\equal_sequnce.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\equal_sequnce.dir/objects.a -Wl,--no-whole-archive -o equal_sequnce.exe -Wl,--out-implib,libequal_sequnce.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\equal_sequnce.dir\linklibs.rsp

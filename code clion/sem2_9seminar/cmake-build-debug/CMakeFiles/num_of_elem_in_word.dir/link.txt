@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\num_of_elem_in_word.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\num_of_elem_in_word.dir/objects.a @CMakeFiles\num_of_elem_in_word.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\num_of_elem_in_word.dir/objects.a -Wl,--no-whole-archive -o num_of_elem_in_word.exe -Wl,--out-implib,libnum_of_elem_in_word.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\num_of_elem_in_word.dir\linklibs.rsp
