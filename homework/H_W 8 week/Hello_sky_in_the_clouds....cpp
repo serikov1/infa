@@ -53,7 +53,7 @@ public:
      * Anny 5
      */
     void print_standings() const{
-        std::map<unsigned int, std::string> reverse_results;
+        std::multimap<unsigned int, std::string> reverse_results;
         for(auto&  st: results) reverse_results[st.second] = st.first;
         for(auto i = std::rbegin(reverse_results); i != std::rend(reverse_results); i++){
             std::cout<< i->second <<' '<<i->first<<std::endl;
