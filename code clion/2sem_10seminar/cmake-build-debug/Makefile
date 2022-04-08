@@ -167,6 +167,43 @@ equal_sequence/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\equal_sequence.dir\build.make CMakeFiles/equal_sequence.dir/build
 .PHONY : equal_sequence/fast
 
+#=============================================================================
+# Target rules for targets named difference_sequence
+
+# Build rule for target.
+difference_sequence: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 difference_sequence
+.PHONY : difference_sequence
+
+# fast build rule for target.
+difference_sequence/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/build
+.PHONY : difference_sequence/fast
+
+difference_sequence.obj: difference_sequence.cpp.obj
+.PHONY : difference_sequence.obj
+
+# target to build an object file
+difference_sequence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/difference_sequence.cpp.obj
+.PHONY : difference_sequence.cpp.obj
+
+difference_sequence.i: difference_sequence.cpp.i
+.PHONY : difference_sequence.i
+
+# target to preprocess a source file
+difference_sequence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/difference_sequence.cpp.i
+.PHONY : difference_sequence.cpp.i
+
+difference_sequence.s: difference_sequence.cpp.s
+.PHONY : difference_sequence.s
+
+# target to generate assembly for a file
+difference_sequence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/difference_sequence.cpp.s
+.PHONY : difference_sequence.cpp.s
+
 equal_sequence.obj: equal_sequence.cpp.obj
 .PHONY : equal_sequence.obj
 
@@ -272,9 +309,13 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2sem_10seminar
+	@echo ... difference_sequence
 	@echo ... equal_sequence
 	@echo ... intersection
 	@echo ... sequence
+	@echo ... difference_sequence.obj
+	@echo ... difference_sequence.i
+	@echo ... difference_sequence.s
 	@echo ... equal_sequence.obj
 	@echo ... equal_sequence.i
 	@echo ... equal_sequence.s

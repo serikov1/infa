@@ -17,9 +17,8 @@ int main(){
         std::cin>>num;
         nums_2.insert(num);
     }
-    std::set_intersection(std::begin(nums_1), std::end(nums_1), std::begin(nums_2), std::end(nums_2), std::begin(intersec));
+    std::set_intersection(std::begin(nums_1), std::end(nums_1), std::begin(nums_2), std::end(nums_2),std::inserter(intersec, std::begin(intersec)));
 
     for(auto& elem: intersec) std::cout<<elem<<" ";
-
 }
 
