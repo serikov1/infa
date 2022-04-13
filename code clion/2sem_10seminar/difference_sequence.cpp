@@ -7,9 +7,9 @@ int main(){
     int n;
     int num;
     std::vector<int> nums_1;
-    std::set<int> nums_1_s;
+    std::multiset<int> nums_1_s;
     std::vector<int> nums_2;
-    std::set<int> nums_2_s;
+    std::multiset<int> nums_2_s;
     std::vector<int> diff;
     std::vector<int> result;
     std::cin>>n;
@@ -25,12 +25,12 @@ int main(){
     }
 
 //    std::set_difference(nums_1_s.begin(), nums_1_s.end(), diff.begin(), diff.end(), std::inserter(result, result.begin()));
-    std::set_intersection(nums_1_s.begin(), nums_1_s.end(), nums_2_s.begin(), nums_2_s.end(), std::inserter(diff, diff.begin()));
-    result.resize(nums_1.size());
-    for(int i = 0; i < nums_1.size(); i++) {
+    std::set_intersection(nums_1_s.begin(), nums_1_s.end(), nums_2_s.begin(), nums_2_s.end(), std::back_inserter(diff));
+//    result.resize(nums_1.size());
+    for(int i : nums_1) {
         for (int j = 0; j < diff.size(); j++) {
-            if (nums_1[i] == diff[j]) {
-                std::cout<<nums_1[i]<<" ";
+            if (i == diff[j]) {
+                std::cout<<i<<" ";
                 diff.erase(std::begin(diff) +j);
                 break;
             }

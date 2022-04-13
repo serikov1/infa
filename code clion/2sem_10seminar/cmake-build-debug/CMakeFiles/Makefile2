@@ -63,10 +63,14 @@ CMAKE_BINARY_DIR = "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2s
 
 # The main recursive "all" target.
 all: CMakeFiles/2sem_10seminar.dir/all
-all: CMakeFiles/intersection.dir/all
+all: CMakeFiles/eraseSomeElements.dir/all
 all: CMakeFiles/sequence.dir/all
+all: CMakeFiles/intersection.dir/all
 all: CMakeFiles/equal_sequence.dir/all
 all: CMakeFiles/difference_sequence.dir/all
+all: CMakeFiles/Rational.dir/all
+all: CMakeFiles/greater_less.dir/all
+all: CMakeFiles/difference_intersection.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -75,10 +79,14 @@ preinstall:
 
 # The main recursive "clean" target.
 clean: CMakeFiles/2sem_10seminar.dir/clean
-clean: CMakeFiles/intersection.dir/clean
+clean: CMakeFiles/eraseSomeElements.dir/clean
 clean: CMakeFiles/sequence.dir/clean
+clean: CMakeFiles/intersection.dir/clean
 clean: CMakeFiles/equal_sequence.dir/clean
 clean: CMakeFiles/difference_sequence.dir/clean
+clean: CMakeFiles/Rational.dir/clean
+clean: CMakeFiles/greater_less.dir/clean
+clean: CMakeFiles/difference_intersection.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -108,30 +116,30 @@ CMakeFiles/2sem_10seminar.dir/clean:
 .PHONY : CMakeFiles/2sem_10seminar.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/intersection.dir
+# Target rules for target CMakeFiles/eraseSomeElements.dir
 
 # All Build rule for target.
-CMakeFiles/intersection.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target intersection"
-.PHONY : CMakeFiles/intersection.dir/all
+CMakeFiles/eraseSomeElements.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\eraseSomeElements.dir\build.make CMakeFiles/eraseSomeElements.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\eraseSomeElements.dir\build.make CMakeFiles/eraseSomeElements.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=11,12 "Built target eraseSomeElements"
+.PHONY : CMakeFiles/eraseSomeElements.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/intersection.dir/rule: cmake_check_build_system
+CMakeFiles/eraseSomeElements.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/intersection.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/eraseSomeElements.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 0
-.PHONY : CMakeFiles/intersection.dir/rule
+.PHONY : CMakeFiles/eraseSomeElements.dir/rule
 
 # Convenience name for target.
-intersection: CMakeFiles/intersection.dir/rule
-.PHONY : intersection
+eraseSomeElements: CMakeFiles/eraseSomeElements.dir/rule
+.PHONY : eraseSomeElements
 
 # clean rule for target.
-CMakeFiles/intersection.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/clean
-.PHONY : CMakeFiles/intersection.dir/clean
+CMakeFiles/eraseSomeElements.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\eraseSomeElements.dir\build.make CMakeFiles/eraseSomeElements.dir/clean
+.PHONY : CMakeFiles/eraseSomeElements.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/sequence.dir
@@ -140,7 +148,7 @@ CMakeFiles/intersection.dir/clean:
 CMakeFiles/sequence.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sequence.dir\build.make CMakeFiles/sequence.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sequence.dir\build.make CMakeFiles/sequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target sequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=17,18 "Built target sequence"
 .PHONY : CMakeFiles/sequence.dir/all
 
 # Build rule for subdir invocation for target.
@@ -160,13 +168,39 @@ CMakeFiles/sequence.dir/clean:
 .PHONY : CMakeFiles/sequence.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/intersection.dir
+
+# All Build rule for target.
+CMakeFiles/intersection.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=15,16 "Built target intersection"
+.PHONY : CMakeFiles/intersection.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/intersection.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/intersection.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/intersection.dir/rule
+
+# Convenience name for target.
+intersection: CMakeFiles/intersection.dir/rule
+.PHONY : intersection
+
+# clean rule for target.
+CMakeFiles/intersection.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/clean
+.PHONY : CMakeFiles/intersection.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/equal_sequence.dir
 
 # All Build rule for target.
 CMakeFiles/equal_sequence.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\equal_sequence.dir\build.make CMakeFiles/equal_sequence.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\equal_sequence.dir\build.make CMakeFiles/equal_sequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target equal_sequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target equal_sequence"
 .PHONY : CMakeFiles/equal_sequence.dir/all
 
 # Build rule for subdir invocation for target.
@@ -192,7 +226,7 @@ CMakeFiles/equal_sequence.dir/clean:
 CMakeFiles/difference_sequence.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target difference_sequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target difference_sequence"
 .PHONY : CMakeFiles/difference_sequence.dir/all
 
 # Build rule for subdir invocation for target.
@@ -210,6 +244,84 @@ difference_sequence: CMakeFiles/difference_sequence.dir/rule
 CMakeFiles/difference_sequence.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/clean
 .PHONY : CMakeFiles/difference_sequence.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Rational.dir
+
+# All Build rule for target.
+CMakeFiles/Rational.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Rational.dir\build.make CMakeFiles/Rational.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Rational.dir\build.make CMakeFiles/Rational.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target Rational"
+.PHONY : CMakeFiles/Rational.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Rational.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Rational.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/Rational.dir/rule
+
+# Convenience name for target.
+Rational: CMakeFiles/Rational.dir/rule
+.PHONY : Rational
+
+# clean rule for target.
+CMakeFiles/Rational.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Rational.dir\build.make CMakeFiles/Rational.dir/clean
+.PHONY : CMakeFiles/Rational.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/greater_less.dir
+
+# All Build rule for target.
+CMakeFiles/greater_less.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greater_less.dir\build.make CMakeFiles/greater_less.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greater_less.dir\build.make CMakeFiles/greater_less.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=13,14 "Built target greater_less"
+.PHONY : CMakeFiles/greater_less.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/greater_less.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/greater_less.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/greater_less.dir/rule
+
+# Convenience name for target.
+greater_less: CMakeFiles/greater_less.dir/rule
+.PHONY : greater_less
+
+# clean rule for target.
+CMakeFiles/greater_less.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greater_less.dir\build.make CMakeFiles/greater_less.dir/clean
+.PHONY : CMakeFiles/greater_less.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/difference_intersection.dir
+
+# All Build rule for target.
+CMakeFiles/difference_intersection.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_intersection.dir\build.make CMakeFiles/difference_intersection.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_intersection.dir\build.make CMakeFiles/difference_intersection.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target difference_intersection"
+.PHONY : CMakeFiles/difference_intersection.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/difference_intersection.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/difference_intersection.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/difference_intersection.dir/rule
+
+# Convenience name for target.
+difference_intersection: CMakeFiles/difference_intersection.dir/rule
+.PHONY : difference_intersection
+
+# clean rule for target.
+CMakeFiles/difference_intersection.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_intersection.dir\build.make CMakeFiles/difference_intersection.dir/clean
+.PHONY : CMakeFiles/difference_intersection.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
