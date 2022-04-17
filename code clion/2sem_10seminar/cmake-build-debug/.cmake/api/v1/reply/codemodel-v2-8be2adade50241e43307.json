@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2sem_10seminar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2sem_10seminar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2sem_10seminar-Debug-970ace7c558ffb61161a.json",
+					"name" : "2sem_10seminar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "difference_sequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-difference_sequence-Debug-669a728787f45ab063d5.json",
+					"name" : "difference_sequence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "equal_sequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-equal_sequence-Debug-d198902bfb32ab675934.json",
+					"name" : "equal_sequence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "intersection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intersection-Debug-5277c1047f600d44db00.json",
+					"name" : "intersection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sequence-Debug-bd42e0fbdd5e412161ea.json",
+					"name" : "sequence",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug",
+		"source" : "D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

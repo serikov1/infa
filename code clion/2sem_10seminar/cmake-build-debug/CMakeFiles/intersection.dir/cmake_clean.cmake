@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/intersection.dir/intersection.cpp.obj"
+  "CMakeFiles/intersection.dir/intersection.cpp.obj.d"
   "intersection.exe"
   "intersection.exe.manifest"
   "intersection.pdb"

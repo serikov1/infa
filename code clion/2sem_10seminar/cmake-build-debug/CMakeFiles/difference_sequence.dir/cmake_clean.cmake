@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/difference_sequence.dir/difference_sequence.cpp.obj"
+  "CMakeFiles/difference_sequence.dir/difference_sequence.cpp.obj.d"
   "difference_sequence.exe"
   "difference_sequence.exe.manifest"
   "difference_sequence.pdb"

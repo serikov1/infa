@@ -1,3 +1,3 @@
-"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\difference_sequence.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\difference_sequence.dir/objects.a @CMakeFiles\difference_sequence.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\difference_sequence.dir/objects.a -Wl,--no-whole-archive -o difference_sequence.exe -Wl,--out-implib,libdifference_sequence.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\difference_sequence.dir\linklibs.rsp
+"D:\Clion\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\difference_sequence.dir/objects.a
+"D:\Clion\CLion 2021.3.4\bin\mingw\bin\ar.exe" qc CMakeFiles\difference_sequence.dir/objects.a @CMakeFiles\difference_sequence.dir\objects1.rsp
+"D:\Clion\CLion 2021.3.4\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\difference_sequence.dir/objects.a -Wl,--no-whole-archive -o difference_sequence.exe -Wl,--out-implib,libdifference_sequence.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\difference_sequence.dir\linklibs.rsp

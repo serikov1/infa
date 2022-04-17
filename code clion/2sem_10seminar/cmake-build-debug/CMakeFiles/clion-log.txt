@@ -1,4 +1,4 @@
-"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "D:\VASILY WORKS\PHYSTECH\Computer science\infa\code clion\2sem_10seminar"
+"D:\Clion\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\PHYSTECH\Computer science\infa\code clion\2sem_10seminar"
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug
+-- Build files have been written to: D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug
