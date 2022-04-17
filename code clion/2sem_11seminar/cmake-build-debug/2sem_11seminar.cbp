@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2sem_11seminar"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2sem_11seminar">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/2sem_11seminar.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 2sem_11seminar"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2sem_11seminar/fast">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/2sem_11seminar.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 2sem_11seminar/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stl_except">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/stl_except.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 stl_except"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stl_except/fast">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/stl_except.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 stl_except/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="connection">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/connection.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 connection"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="connection/fast">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/connection.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 connection/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="goblins_brain">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/goblins_brain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 goblins_brain"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="goblins_brain/fast">
+				<Option output="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/goblins_brain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 goblins_brain/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/connection.cpp">
+			<Option target="connection"/>
+		</Unit>
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/goblins_brain.cpp">
+			<Option target="goblins_brain"/>
+		</Unit>
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/main.cpp">
+			<Option target="2sem_11seminar"/>
+		</Unit>
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/stl_except.cpp">
+			<Option target="stl_except"/>
+		</Unit>
+		<Unit filename="D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

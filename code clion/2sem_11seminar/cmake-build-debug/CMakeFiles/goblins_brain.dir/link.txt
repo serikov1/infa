@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\goblins_brain.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\goblins_brain.dir/objects.a @CMakeFiles\goblins_brain.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\goblins_brain.dir/objects.a -Wl,--no-whole-archive -o goblins_brain.exe -Wl,--out-implib,libgoblins_brain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\goblins_brain.dir\linklibs.rsp

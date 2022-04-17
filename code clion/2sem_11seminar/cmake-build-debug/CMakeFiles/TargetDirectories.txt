@@ -1,0 +1,6 @@
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/CMakeFiles/2sem_11seminar.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/CMakeFiles/stl_except.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/CMakeFiles/connection.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/CMakeFiles/goblins_brain.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_11seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
