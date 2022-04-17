@@ -129,17 +129,17 @@ depend:
 .PHONY : 2sem_10seminar/fast
 
 #=============================================================================
-# Target rules for targets named intersection
+# Target rules for targets named eraseSomeElements
 
 # Build rule for target.
-intersection: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 intersection
-.PHONY : intersection
+eraseSomeElements: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 eraseSomeElements
+.PHONY : eraseSomeElements
 
 # fast build rule for target.
-intersection/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/build
-.PHONY : intersection/fast
+eraseSomeElements/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\eraseSomeElements.dir\build.make CMakeFiles/eraseSomeElements.dir/build
+.PHONY : eraseSomeElements/fast
 
 #=============================================================================
 # Target rules for targets named sequence
@@ -153,6 +153,19 @@ sequence: cmake_check_build_system
 sequence/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sequence.dir\build.make CMakeFiles/sequence.dir/build
 .PHONY : sequence/fast
+
+#=============================================================================
+# Target rules for targets named intersection
+
+# Build rule for target.
+intersection: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 intersection
+.PHONY : intersection
+
+# fast build rule for target.
+intersection/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\intersection.dir\build.make CMakeFiles/intersection.dir/build
+.PHONY : intersection/fast
 
 #=============================================================================
 # Target rules for targets named equal_sequence
@@ -179,6 +192,93 @@ difference_sequence: cmake_check_build_system
 difference_sequence/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_sequence.dir\build.make CMakeFiles/difference_sequence.dir/build
 .PHONY : difference_sequence/fast
+
+#=============================================================================
+# Target rules for targets named Rational
+
+# Build rule for target.
+Rational: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Rational
+.PHONY : Rational
+
+# fast build rule for target.
+Rational/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Rational.dir\build.make CMakeFiles/Rational.dir/build
+.PHONY : Rational/fast
+
+#=============================================================================
+# Target rules for targets named greater_less
+
+# Build rule for target.
+greater_less: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 greater_less
+.PHONY : greater_less
+
+# fast build rule for target.
+greater_less/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greater_less.dir\build.make CMakeFiles/greater_less.dir/build
+.PHONY : greater_less/fast
+
+#=============================================================================
+# Target rules for targets named difference_intersection
+
+# Build rule for target.
+difference_intersection: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 difference_intersection
+.PHONY : difference_intersection
+
+# fast build rule for target.
+difference_intersection/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_intersection.dir\build.make CMakeFiles/difference_intersection.dir/build
+.PHONY : difference_intersection/fast
+
+Rational.obj: Rational.cpp.obj
+.PHONY : Rational.obj
+
+# target to build an object file
+Rational.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Rational.dir\build.make CMakeFiles/Rational.dir/Rational.cpp.obj
+.PHONY : Rational.cpp.obj
+
+Rational.i: Rational.cpp.i
+.PHONY : Rational.i
+
+# target to preprocess a source file
+Rational.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Rational.dir\build.make CMakeFiles/Rational.dir/Rational.cpp.i
+.PHONY : Rational.cpp.i
+
+Rational.s: Rational.cpp.s
+.PHONY : Rational.s
+
+# target to generate assembly for a file
+Rational.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Rational.dir\build.make CMakeFiles/Rational.dir/Rational.cpp.s
+.PHONY : Rational.cpp.s
+
+difference_intersection.obj: difference_intersection.cpp.obj
+.PHONY : difference_intersection.obj
+
+# target to build an object file
+difference_intersection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_intersection.dir\build.make CMakeFiles/difference_intersection.dir/difference_intersection.cpp.obj
+.PHONY : difference_intersection.cpp.obj
+
+difference_intersection.i: difference_intersection.cpp.i
+.PHONY : difference_intersection.i
+
+# target to preprocess a source file
+difference_intersection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_intersection.dir\build.make CMakeFiles/difference_intersection.dir/difference_intersection.cpp.i
+.PHONY : difference_intersection.cpp.i
+
+difference_intersection.s: difference_intersection.cpp.s
+.PHONY : difference_intersection.s
+
+# target to generate assembly for a file
+difference_intersection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\difference_intersection.dir\build.make CMakeFiles/difference_intersection.dir/difference_intersection.cpp.s
+.PHONY : difference_intersection.cpp.s
 
 difference_sequence.obj: difference_sequence.cpp.obj
 .PHONY : difference_sequence.obj
@@ -227,6 +327,54 @@ equal_sequence.s: equal_sequence.cpp.s
 equal_sequence.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\equal_sequence.dir\build.make CMakeFiles/equal_sequence.dir/equal_sequence.cpp.s
 .PHONY : equal_sequence.cpp.s
+
+eraseSomeElements.obj: eraseSomeElements.cpp.obj
+.PHONY : eraseSomeElements.obj
+
+# target to build an object file
+eraseSomeElements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\eraseSomeElements.dir\build.make CMakeFiles/eraseSomeElements.dir/eraseSomeElements.cpp.obj
+.PHONY : eraseSomeElements.cpp.obj
+
+eraseSomeElements.i: eraseSomeElements.cpp.i
+.PHONY : eraseSomeElements.i
+
+# target to preprocess a source file
+eraseSomeElements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\eraseSomeElements.dir\build.make CMakeFiles/eraseSomeElements.dir/eraseSomeElements.cpp.i
+.PHONY : eraseSomeElements.cpp.i
+
+eraseSomeElements.s: eraseSomeElements.cpp.s
+.PHONY : eraseSomeElements.s
+
+# target to generate assembly for a file
+eraseSomeElements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\eraseSomeElements.dir\build.make CMakeFiles/eraseSomeElements.dir/eraseSomeElements.cpp.s
+.PHONY : eraseSomeElements.cpp.s
+
+greater_less.obj: greater_less.cpp.obj
+.PHONY : greater_less.obj
+
+# target to build an object file
+greater_less.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greater_less.dir\build.make CMakeFiles/greater_less.dir/greater_less.cpp.obj
+.PHONY : greater_less.cpp.obj
+
+greater_less.i: greater_less.cpp.i
+.PHONY : greater_less.i
+
+# target to preprocess a source file
+greater_less.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greater_less.dir\build.make CMakeFiles/greater_less.dir/greater_less.cpp.i
+.PHONY : greater_less.cpp.i
+
+greater_less.s: greater_less.cpp.s
+.PHONY : greater_less.s
+
+# target to generate assembly for a file
+greater_less.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greater_less.dir\build.make CMakeFiles/greater_less.dir/greater_less.cpp.s
+.PHONY : greater_less.cpp.s
 
 intersection.obj: intersection.cpp.obj
 .PHONY : intersection.obj
@@ -309,16 +457,32 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2sem_10seminar
+	@echo ... Rational
+	@echo ... difference_intersection
 	@echo ... difference_sequence
 	@echo ... equal_sequence
+	@echo ... eraseSomeElements
+	@echo ... greater_less
 	@echo ... intersection
 	@echo ... sequence
+	@echo ... Rational.obj
+	@echo ... Rational.i
+	@echo ... Rational.s
+	@echo ... difference_intersection.obj
+	@echo ... difference_intersection.i
+	@echo ... difference_intersection.s
 	@echo ... difference_sequence.obj
 	@echo ... difference_sequence.i
 	@echo ... difference_sequence.s
 	@echo ... equal_sequence.obj
 	@echo ... equal_sequence.i
 	@echo ... equal_sequence.s
+	@echo ... eraseSomeElements.obj
+	@echo ... eraseSomeElements.i
+	@echo ... eraseSomeElements.s
+	@echo ... greater_less.obj
+	@echo ... greater_less.i
+	@echo ... greater_less.s
 	@echo ... intersection.obj
 	@echo ... intersection.i
 	@echo ... intersection.s
