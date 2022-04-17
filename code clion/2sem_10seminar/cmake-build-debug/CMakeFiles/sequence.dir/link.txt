@@ -1,3 +1,0 @@
-"D:\Clion\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\sequence.dir/objects.a
-"D:\Clion\CLion 2021.3.4\bin\mingw\bin\ar.exe" qc CMakeFiles\sequence.dir/objects.a @CMakeFiles\sequence.dir\objects1.rsp
-"D:\Clion\CLion 2021.3.4\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\sequence.dir/objects.a -Wl,--no-whole-archive -o sequence.exe -Wl,--out-implib,libsequence.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sequence.dir\linklibs.rsp
