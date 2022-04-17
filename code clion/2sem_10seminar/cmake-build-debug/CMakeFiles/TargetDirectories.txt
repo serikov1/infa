@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/2sem_10seminar.dir
 D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/intersection.dir
@@ -5,3 +6,16 @@ D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CM
 D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/equal_sequence.dir
 D:/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/difference_sequence.dir
+=======
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/2sem_10seminar.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/eraseSomeElements.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/sequence.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/intersection.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/equal_sequence.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/difference_sequence.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/Rational.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/greater_less.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/difference_intersection.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/2sem_10seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> cf7ec3d16551180026ada9d92ff8f489f6800be8
