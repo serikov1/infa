@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\erase_some_elements.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\erase_some_elements.dir/objects.a @CMakeFiles\erase_some_elements.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\erase_some_elements.dir/objects.a -Wl,--no-whole-archive -o erase_some_elements.exe -Wl,--out-implib,liberase_some_elements.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\erase_some_elements.dir\linklibs.rsp
