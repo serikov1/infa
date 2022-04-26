@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2sem_11seminar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2sem_11seminar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2sem_11seminar-Debug-7a4620cd4f1fa7124f0a.json",
+					"name" : "2sem_11seminar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "connection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-connection-Debug-a341a5590a6c59a5a72b.json",
+					"name" : "connection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "goblins_brain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-goblins_brain-Debug-e42885e822489c237519.json",
+					"name" : "goblins_brain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stl_except::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stl_except-Debug-00d712d1f3095408b87b.json",
+					"name" : "stl_except",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/PHYSTECH/infa/code clion/2sem_11seminar/cmake-build-debug",
+		"source" : "C:/PHYSTECH/infa/code clion/2sem_11seminar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

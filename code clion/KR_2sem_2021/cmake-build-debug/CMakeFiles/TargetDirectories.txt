@@ -1,0 +1,10 @@
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/KR_2sem_2021.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/first.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/second.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/third.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/fourth.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/fifth.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/sixth.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/seventh.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir

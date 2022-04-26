@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/goblins_brain.dir/goblins_brain.cpp.obj"
+  "CMakeFiles/goblins_brain.dir/goblins_brain.cpp.obj.d"
   "goblins_brain.exe"
   "goblins_brain.exe.manifest"
   "goblins_brain.pdb"

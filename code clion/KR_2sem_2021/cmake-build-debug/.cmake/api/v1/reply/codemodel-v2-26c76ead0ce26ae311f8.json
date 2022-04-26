@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KR_2sem_2021",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KR_2sem_2021::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KR_2sem_2021-Debug-a7390b2eb8a8885d682a.json",
+					"name" : "KR_2sem_2021",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fifth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fifth-Debug-5c37cf3dea3a2d06cd8f.json",
+					"name" : "fifth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "first::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-first-Debug-7adba9122df472ff0e6b.json",
+					"name" : "first",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fourth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fourth-Debug-e70c7faf20b12eb5f131.json",
+					"name" : "fourth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second-Debug-ddb5f9afd2142a2780d9.json",
+					"name" : "second",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seventh::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seventh-Debug-0dcf3f86b1be6f2fa29d.json",
+					"name" : "seventh",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sixth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sixth-Debug-6f313226480d2b82e253.json",
+					"name" : "sixth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "third::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-third-Debug-c49fe779fd4942f6cf2b.json",
+					"name" : "third",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/PHYSTECH/infa/code clion/KR_2sem_2021/cmake-build-debug",
+		"source" : "C:/PHYSTECH/infa/code clion/KR_2sem_2021"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

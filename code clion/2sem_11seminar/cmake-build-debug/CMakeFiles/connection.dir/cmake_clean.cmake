@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/connection.dir/connection.cpp.obj"
+  "CMakeFiles/connection.dir/connection.cpp.obj.d"
   "connection.exe"
   "connection.exe.manifest"
   "connection.pdb"
