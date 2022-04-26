@@ -8,4 +8,4 @@
 - [lesson №7](https://github.com/serikov1/infa/tree/main/homework/H_W%207%20week)
 - [lesson №8](https://github.com/serikov1/infa/tree/main/homework/H_W%208%20week)
 - [lesson №9](https://github.com/serikov1/infa/tree/main/homework/H_W%209%20week)
--  :point_right: [lesson №10](https://github.com/serikov1/infa/tree/main/homework/H_W%2010week) [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=251CBA&height=30&lines=CHECK+THIS)](https://git.io/typing-svg)
+-  :point_right: [lesson №10 (test prepararion)](https://github.com/serikov1/infa/tree/main/homework/H_W%2010week) [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=251CBA&height=30&lines=CHECK+THIS)](https://git.io/typing-svg)
