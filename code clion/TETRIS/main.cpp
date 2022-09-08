@@ -40,7 +40,7 @@ int main()
 
    // создаем и загружаем текстуры
    Texture texture;
-   texture.loadFromFile(R"(D:\code clion\TETRIS\tiles.png)");
+   texture.loadFromFile(R"(C:/PHYSTECH/infa/code clion/TETRIS/tiles.png)");
 
    // создаем спрайт
    Sprite sprite(texture);

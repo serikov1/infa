@@ -7,7 +7,7 @@ set(SFML_STATIC_LIBRARIES TRUE)
 
 add_executable(main main.cpp)
 
-set(SFML_DIR "D:/VASILY WORKS/PHYSTECH/Computer science/infa/code clion/lib/sfml/GCC 7.3.0 MinGW (SEH) - 64-bit/SFML-2.5.1/lib/cmake/SFML")
+set(SFML_DIR "C:/PHYSTECH/infa/code clion/lib/sfml/GCC 7.3.0 MinGW (SEH) - 64-bit/SFML-2.5.1/lib/cmake/SFML")
 
 target_link_libraries(main sfml-graphics)
 
