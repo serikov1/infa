@@ -1,0 +1,3 @@
+C:/PHYSTECH/infa/code clion/C_micr/cmake-build-debug/CMakeFiles/C_micr.dir
+C:/PHYSTECH/infa/code clion/C_micr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PHYSTECH/infa/code clion/C_micr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
