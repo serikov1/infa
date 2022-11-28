@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1.exe.manifest"
   "1.pdb"
   "CMakeFiles/1.dir/1.cpp.obj"
+  "CMakeFiles/1.dir/1.cpp.obj.d"
   "lib1.dll.a"
 )
 

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "2sem_1seminar.exe.manifest"
   "2sem_1seminar.pdb"
   "CMakeFiles/2sem_1seminar.dir/main.cpp.obj"
+  "CMakeFiles/2sem_1seminar.dir/main.cpp.obj.d"
   "lib2sem_1seminar.dll.a"
 )
 

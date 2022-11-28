@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/task.dir/task.cpp.obj"
+  "CMakeFiles/task.dir/task.cpp.obj.d"
   "libtask.dll.a"
   "task.exe"
   "task.exe.manifest"
